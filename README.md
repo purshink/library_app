@@ -2,9 +2,9 @@
 
 Java DB Spring Data Exam 
 <hr></hr>
-Web application (WAR) packaging as well as self-contained JAR
-Thymeleaf with following dialects: Java 8 Time, Layout and Security
-WebJars
+A Spring Web MVC application that renders thymeleaf templates as HTML. Supports basic integration with spring security and provides login logout support.
+Uses Spring Data to persist data into the MYSQL db. 
+
 <br><br>
 <b>Prerequisites</b>
 <hr></hr>
