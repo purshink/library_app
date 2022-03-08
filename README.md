@@ -3,7 +3,7 @@
 Java DB Spring Data Exam 
 <hr></hr>
 A Spring Web MVC application that renders thymeleaf templates as HTML.
-Uses Spring Data to persist data into the MYSQL db. The application should be able to import data from XML and JSON and support functionality for also exporting the imported data. The application is called – Library App.
+Uses Spring Data to persist data into the MYSQL db.The application should be able to import data from XML and JSON and support functionality for also exporting the imported data. 
 
 <br><br>
 <b>Prerequisites</b>
